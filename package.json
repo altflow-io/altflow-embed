@@ -1,6 +1,6 @@
 {
   "name": "altflowio-embed",
-  "version": "1.0.2",
+  "version": "0.0.0",
   "description": "altflow embed",
   "main": "dist/index.js",
   "scripts": {
