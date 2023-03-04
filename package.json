@@ -1,0 +1,29 @@
+{
+  "name": "@altflow.io/embed",
+  "version": "0.0.0",
+  "description": "altflow embed",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/altflow-io/altflow-embed.git"
+  },
+  "keywords": [
+    "altflow",
+    "form",
+    "forms",
+    "saas",
+    "flow"
+  ],
+  "author": "hb@altflow.io",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/altflow-io/altflow-embed/issues"
+  },
+  "homepage": "https://github.com/altflow-io/altflow-embed#readme",
+  "devDependencies": {
+    "np": "^7.6.3"
+  }
+}
