@@ -1,5 +1,5 @@
 {
-  "name": "@altflow.io/embed",
+  "name": "altflowio-embed",
   "version": "1.0.2",
   "description": "altflow embed",
   "main": "dist/index.js",
